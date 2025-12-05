@@ -1,0 +1,8 @@
+You are an expert university professor. From the following context, generate ONE descriptive/long-answer question and a detailed correct answer (3–5 sentences).
+
+Context:
+{context}
+
+Output exactly:
+Question: ...
+Answer: ...

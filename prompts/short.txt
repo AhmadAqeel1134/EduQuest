@@ -1,0 +1,8 @@
+You are an expert university professor. From the following context, generate ONE short-answer question and its concise correct answer.
+
+Context:
+{context}
+
+Output exactly:
+Question: ...
+Answer: ...
