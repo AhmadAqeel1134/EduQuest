@@ -1,0 +1,250 @@
+Talha Saleem
+Computer Contracts
+What is a Contract?
+§ An agreement is a set of mutual promises made between parties, but not necessarily 
+enforceable
+§ A contract is an agreement recognized by law, meaning courts can enforce its 
+performance
+§ Contracts can be between natural persons or legal entities such as companies
+§ No specific format is required, the focus is on the intent to create legal obligations
+§ Each party must receive or give something of value, forming the consideration that 
+supports the contract
+Contract 
+vs.
+Agreement
+1.
+Offer: A clear proposal showing willingness to enter a legally 
+binding arrangement
+2.
+Acceptance: An unequivocal agreement to the offer's terms
+3.
+Awareness: An understanding of the terms and conditions 
+4.
+Consideration: Something of value exchanged between the 
+parties, such as money, goods, services, or promises to act 
+(or refrain from acting) in a certain way
+5.
+Capacity: The legal capacity of all parties involved to 
+authorize a deal on behalf of the company
+6.
+Legality: The purpose of the contract must be lawful — a 
+contract cannot be formed with the intention to carry out an 
+illegal act
+Essential Elements of a Valid Contract
+Why Computer Contracts are Unique?
+§ Intangible Nature of Software: Software cannot be physically inspected like hardware, 
+making quality, performance, and completeness harder to verify.
+§ Ambiguous Requirements: Many IT projects start with unclear or evolving 
+specifications, increasing the chance of misunderstandings and scope disputes.
+§ Intellectual Property Challenges: Ownership of source code, documentation, 
+algorithms, and design assets must be explicitly defined to avoid future conflicts.
+§ Operational Dependency: A system failure can halt payroll, billing, logistics, or public 
+services, causing significant financial or reputation damage.
+§ Rapid Technological Change: Hardware and software can become outdated quickly, 
+requiring upgrades, migrations, or renegotiations during the contract.
+§ Integration Complexity: IT systems must work with existing databases, servers, 
+networks, and third-party tools, increasing risk if not properly planned.
+§ Higher Risk of Disputes: Vague deliverables, undefined acceptance criteria, and poor 
+documentation frequently lead to disagreements and blame-shifting.
+§ Security & Compliance Requirements: Contracts must address security, data 
+protection, backups, and audit requirements, especially when dealing with sensitive data.
+Key Questions in Assessing IT Contracts
+§ What if the software has defects?
+Determine warranty terms, bug-fix responsibilities, and limits of liability.
+§ What if the system fails during critical operations?
+Contracts must define support response times, backup plans, and disaster recovery 
+procedures.
+§ What if the client misuses or illegally distributes the software?
+Licensing terms must clearly restrict copying, sharing, or unauthorized modification.
+§ What if performance is too slow or below expectations?
+Include measurable benchmarks, performance tests, and acceptance criteria.
+§ What if the system becomes outdated or unsupported?
+Define upgrade options, long-term maintenance, and vendor obligations.
+§ What happens if third-party IP is violated?
+Indemnity clauses determine who bears responsibility for IP infringement.
+Case Study: Ministry of Information vs Faujisoft (2001)
+Project Details
+§ Rs 1.1 million project
+§ MIS with 4 modules: Personnel, Inventory, 
+Accounts, News Archiving
+Requirements & Contract Issues
+§ No formal requirements / specifications 
+were provided by the Ministry
+§ Faujisoft itself studied and proposed a 
+system
+§ Contract was developed by Faujisoft and 
+approved without consultation of the 
+Ministry of Law
+Financial Aspects
+§ Faujisoft got money in advance (initial 
+stages)
+§ Rs 0.550 million bank guarantee was there 
+(6-months validity)
+§ Oracle 8 was purchased (licensed) from 
+Ora-Tech, 2 DBA’s trained
+Delivery Problems
+§ Software delivered was full of bugs
+§ Not meeting user requirements
+§ Could not get implemented
+Contractual Consequences
+§ As per contract / terms & conditions, 
+nothing could be claimed
+§ Poor Contract -> how much loss of public 
+money?
+General Terms & Conditions of a Contract
+1. Scope / Requirements Specification: Defines what the system must do.
+2. Contract Management: How progress, communication, and reporting will occur.
+3. Price: Total cost of the project or services.
+4. Payment Conditions: When and how payments will be made.
+5. Delivery and Acceptance: Criteria and process for approving deliverables.
+6. Intellectual Property Rights: Who owns the software, code, and documentation.
+7. Information, Facilities & Materials Provided by Client: What the client must supply.
+8. Conditions Relating to Staff: Roles, responsibilities, and qualifications of personnel.
+9. Change Control: How scope changes will be requested and approved.
+Supreme Court of Pakistan
+10. Warranty: Period during which defects will be fixed at no cost.
+11. Liability for Loss or Damage: Defines financial responsibility for failures.
+12. Confidentiality: Protects sensitive business or technical information.
+13. Indemnity: Protection against losses caused by one party’s actions.
+14. Termination: Conditions under which the contract can end early.
+15. Force Majeure: Exceptions for events beyond control (e.g., natural disasters).
+16. Notices: How official communication must be delivered.
+17. Arbitration: Process for resolving disputes outside court.
+18. Applicable Law: Jurisdiction governing the contract.
+Purpose of Contracts
+§ Contracts set out the agreement between the parties
+§ They define the aims of the parties and expectations
+§ They address issues that may arise during the contract
+§ They outline how the contract can be terminated
+§ They specify the consequences of termination
+§ Contracts provide legal security to both the customer and software developers
+§ Gaps may exist when parties fail to consider specific issues
+§ Contracts rarely cause disputes when everything runs smoothly, but when things go 
+wrong, problems arise
+§ Example often used: Marriage, where disputes appear only when expectations fail
+Structure of the Contract (Introductory Section)
+§ The first part of the contract is brief and formal
+§ It states that it is an agreement between the parties, along with their names and 
+registered addresses
+§ It usually begins with a definitions section
+§ Definitions clarify how certain terms will be used throughout the contract
+Example:
+§ Company X Ltd, the software house, is defined as “The Company”
+§ Company Y Ltd, the client commissioning the work, is defined as “The Client”
+Structure of the Contract (Clause Section)
+1. What is to be produced?
+It is clearly necessary that the contract states what is to be produced.
+Refers to a separate document which constitutes the requirements 
+specification.
+§ Software engineers will be familiar with the problems of producing 
+requirements
+§ A specification sets out the detailed requirements of the client. Ideally, the
+§ Specification should be complete, consistent and accurate and set out all that 
+the client 
+§ Wants to be done in the performance of the contract
+Structure of the Contract (Clause Section)
+2. What is to be delivered?
+Producing software for a client is not, usually, a matter of simply handing over the 
+text of a program which does what is required.
+The following is a non-exhaustive list of possibilities:
+§ Source code;
+§ Command files for building the executable code from the source and for 
+installing it;
+§ Documentation of the design and of the code;
+§ Reference manuals, training manuals and operations manuals;
+§ Software tools to help maintain the code;
+§ User training;
+§ Training for the client’s maintenance staff;
+§ Test data and test results.
+Structure of the Contract (Clause Section)
+3. Ownership of rights
+It is important that the contract should also state just what legal rights are being 
+passed the software house to the client under the contract. Ownership in physical 
+items such as books, documents or discs will usually pass from the software house 
+to the client, but other intangible rights, known as intellectual property rights.
+It is important for the contract to state precisely who is to own these rights. Do 
+they pass to the client or are they retained by the software house?
+Structure of the Contract (Clause Section)
+4. Confidentiality
+A second area of intellectual property law which should be considered in a 
+software contract is confidentiality. The commissioning client may well have to 
+pass confidential information about its business operations to the software house. 
+On the other side of the coin, the software house may not want the client to 
+divulge to others details of the program content or other information gleaned 
+about its operations by the client.
+Structure of the Contract (Clause Section)
+5. Obligations of the client
+In almost all cases where work is being carried out for a specific client, the client 
+will have to fulfil certain obligations if the contract is to be completed successfully. 
+The following is a (non-exhaustive) list of possibilities:
+§ provide documentation on aspects of the client’s activities or the environment in 
+which the system will run;
+§ provide access to appropriate members of staff;
+§ provide machine facilities for development and testing;
+§ provide accommodation, telephone and secretarial facilities for the company’s 
+staff
+§ when working on the client’s premises;
+§ provide data communications facilities to the site.
+Structure of the Contract (Clause Section)
+6. Standards and methods of working
+The supplier is likely to have company standards, methods of working, quality 
+assurance procedures, etc. and will normally prefer to use these. More 
+sophisticated clients will have their own procedures and may require that these be 
+adhered to.
+In some cases, the supplier may be required to allow the client to apply quality 
+control procedures to the project. The contract must specify which is to apply.
+Structure of the Contract (Clause Section)
+7. Project Managers
+Each party needs to know who, of the other party’s staff, has day-to- day 
+responsibility for the work and what the limits of that person’s authority are. The 
+standard terms and conditions should therefore require each party to nominate, in 
+writing, a Project Manager.
+The Project Managers must have at least the authority necessary to fulfil the 
+obligations which the contract places on them. It is particularly important that the 
+limits of their financial authority are explicitly stated, i.e. the extent to which they 
+can authorize changes to the cost of the contract.
+Structure of the Contract (Clause Section)
+8. Acceptance procedure
+Acceptance procedures are a critical part of contract for they provide the criteria 
+by which successful completion of the contract is judged.
+The essence of the acceptance procedure is that the client should provide a fixed 
+set of acceptance tests and expected results and that successful performance of 
+these tests shall constitute acceptance of the system.
+Structure of the Contract (Clause Section)
+9. Indemnity
+It could happen that, as a result of the client’s instructions, the supplier is led 
+unwittingly to infringe the intellectual property rights of a third party or that, 
+through carelessness or dishonesty, the supplier provides a system which infringes 
+such rights—perhaps through using proprietary software as a component of the 
+system delivered. For this reason, it is advisable to include a clause under which 
+each party indemnifies the other for liability arising from its own faults in this 
+respect.
+Structure of the Contract (Clause Section)
+10. Termination of the contract
+§ There are many reasons why it may become necessary to terminate a contract 
+before it has been completed.
+For example, for the client to be taken over by another company which already has 
+a system of the type being developed, or for a change in policy on the part of the 
+client to mean that the system is no longer relevant to its needs
+§ The contract makes provision for terminating the work in an amicable manner
+Structure of the Contract (Clause Section)
+11. Arbitration
+If the event of a dispute that cannot be resolved by the parties themselves, they 
+agree to accept the decision of an independent arbitrator.
+12. Inflation
+In lengthy projects or projects where there is a commitment to long term 
+maintenance, the supplier will wish to ensure protection against the effects of 
+unpredictable inflation.
+To handle this problem, it is customary to include a clause which allows charges to 
+be increased in accordance with the rise in costs.
+Structure of the Contract (Clause Section)
+13. Applicable law
+Where the supplier and the client have their registered offices in different legal 
+jurisdictions or performance of the contract involves more than one jurisdiction, it 
+is necessary to state under which laws the contract is to be interpreted.
+Structure of the Contract (Authority Section)
+§ The authorities of both party signature on the term and conditions mentioned 
+in the clause section.
+§ The most Important things are Starting and ending date of an Agreement.
+§ Only an Authorized person from each party is mentioned in this Section.
+Thank You

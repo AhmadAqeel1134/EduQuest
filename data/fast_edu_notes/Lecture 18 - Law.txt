@@ -1,0 +1,436 @@
+Talha Saleem
+Law
+Trespass to chattels
+Traditionally, trespass to 
+chattels meant interfering 
+with someone’s personal 
+property (like damaging or 
+using their car or tools 
+without consent). The 
+court agreed, marking one 
+of the first major cases to 
+extend trespass laws to 
+digital property.
+False advertising 
+under the Lanham 
+Act, 15
+“False advertising” here 
+refers to misleading 
+representation in 
+commerce that confuses 
+consumers about the 
+source or quality of a 
+product or service.
+Unfair competition
+Using deceptive or 
+unethical means to gain 
+a business advantage. It 
+protects the integrity of 
+market competition.
+Trademark dilution
+Occurs when another party 
+uses a famous mark (like 
+“eBay”) in a way that 
+weakens its distinctiveness 
+or reputation, even if 
+there’s no direct confusion.
+Unjust enrichment
+A legal principle where 
+one party benefits 
+unfairly at the expense 
+of another.
+Violation of the 
+Computer Fraud and 
+Abuse Act, 18
+The CFAA criminalizes 
+unauthorized access to 
+computer systems or 
+networks. It’s one of the 
+most important U.S. 
+cybercrime laws.
+Misappropriation
+Taking or using 
+another’s property, 
+ideas, or data without 
+authorization, especially 
+for commercial benefit.
+Interference with 
+prospective economic 
+advantage
+Intentionally disrupting 
+another company’s 
+potential or ongoing 
+business relationships 
+or opportunities.
+What is Law?
+§ Law is a set of rules of human conduct that are imposed and enforced by the state 
+through recognized institutions such as courts and police.
+§ It defines what individuals can or cannot do and provides mechanisms for resolving 
+disputes.
+What is Law?
+§ Different laws / rules in different countries.
+§
+Rules governing data protection, rights of access to information, and misuse of computers 
+etc.
+§ Different countries have different legal systems / systems of courts, different rules for 
+court procedures, different procedures for appeals etc.
+§ Even within a single country, the law and the legal system may be different in different 
+areas.
+§
+Mostly in large countries with a federal system of Government e.g USA, UK, India etc.
+§ Jurisdiction mean the area covered by a single legal system and set of laws.
+Why Do We Need Law?
+Without it, there would be chaos, exploitation, and no protection for rights.
+Key purposes:
+§ To ensure justice and equality
+§ To maintain public order and safety
+§ To protect life, property, and rights
+§ To provide mechanisms for resolving disputes.
+§ To regulate relationships between individuals, businesses, and the state
+§ To provide punishment for wrongdoing and deterrence for crimes 
+In short: “Laws were created to scare people into being good”, ensuring that moral and 
+ethical behavior has accountability.
+History 
+of Law
+Where Does Law Come From?
+1. Common Law
+Definition:
+Law developed through court 
+judgments over many years. Judges rely 
+on precedents (past decisions) to decide 
+new cases.
+Key Features:
+§
+Not originally written by Parliament
+§
+Built case by case
+§
+Flexible and evolves with society
+§
+Judges play a major role
+Examples:
+§
+eBay v. Bidder’s Edge (digital 
+trespass through precedent)
+§
+Many cybersecurity and privacy 
+interpretations in courts
+§
+Pakistan indirectly inherits some 
+English Common Law roots
+2. Statute Law
+Definition:
+Law created by Parliaments or 
+legislatures in written form. These are 
+Acts, Ordinances, or Codes.
+Key Features:
+§
+Written, formal, enforceable
+§
+Clear rules and penalties
+§
+Overrides common law if there’s a 
+conflict
+Examples (Pakistan):
+§
+PECA 2016 (cybercrime law)
+§
+Electronic Transactions Ordinance 
+2002
+§
+Intellectual Property laws (IPO 
+Pakistan)
+§
+Constitution of Pakistan 1973
+§
+Contract Act 1872
+3. Islamic Law (for Pakistan)
+Definition:
+Certain laws must align with Islamic 
+principles. The Federal Shariat Court 
+ensures no law contradicts Islamic 
+injunctions.
+Key Features (Islamic Law):
+§
+Based on Qur’an and Sunnah
+§
+Focus on justice and fairness
+§
+Protects life, property, dignity, and 
+rights
+Examples:
+§
+Family law
+§
+Inheritance/succession law
+§
+Some criminal and social matters
+Jurisdiction
+Jurisdiction is the legal authority of a court or government body to hear a case, make 
+decisions, and enforce laws.
+1. Original Jurisdiction
+The court has the power to hear a case for the first time.
+Example:
+A cybercrime complaint filed directly in a Special Court 
+under PECA.
+3. Territorial Jurisdiction
+The geographic area where a court has power.
+Example:
+A case occurring in Islamabad cannot be tried in Karachi 
+unless special rules apply.
+2. Appellate Jurisdiction
+The court has the authority to review decisions made by 
+lower courts.
+Example:
+Appealing a conviction or fine from the trial court.
+4. Pecuniary Jurisdiction
+Jurisdiction based on the monetary value of the claim.
+Example:
+Small-value civil disputes vs. high-value corporate or IP 
+cases.
+Criminal Law
+Civil Law
+Public Law
+Substantive Law
+Procedural Law
+International Law
+Defines offenses against the 
+state and prescribes 
+punishments.
+Resolves disputes between 
+individuals or organizations.
+Regulates interactions between 
+the state and individuals.
+Defines rights, duties, and what 
+is lawful or unlawful.
+Defines the process of enforcing 
+rights or prosecuting crimes.
+Governs relationships between 
+states (treaties, diplomacy).
+Types of Law
+Criminal Law
+Criminal law deals with actions considered harmful to society and punishable by the State.
+Key Idea: A crime may harm a person, but legally it is an offense against the State because 
+it threatens public order.
+Examples: Hacking or unauthorized access, Cyber harassment, Fraud and identity theft, 
+Theft, Assault, Murder, Terrorism
+Crime: It is defined as an act disobedience of the law forbidden under pain of punishment.
+Punishment: It ranges from death to a money penalty or absolute discharge.
+Police are the public servants whose duty is the prevention and detection of crime and the 
+prosecution of offenders before the courts of law.
+Criminal Law
+Purpose
+§ Protect society
+§ Maintain public order
+§ Punish wrongdoing
+§ Deter future crime
+Punishments
+§ Imprisonment
+§ Fines
+§ Seizure of devices (in IT crimes)
+§ Criminal record
+Civil
+Law
+Common
+Law
+Civil Law (Private Law)
+Civil law resolves disputes between individuals, groups, or organizations. The goal is 
+compensation, not punishment.
+Key Features: 
+§ Deals with rights and duties between people
+§ Case is filed by the affected party, not the State
+§ Outcome is usually damages, injunction, or specific performance
+§ Court action under the civil law is known as litigation
+Examples: Breach of contract, Intellectual property disputes, Negligence causing financial 
+loss, Defamation on social media, Property or ownership disputes etc.
+The Law of Torts: deals with civil wrongs where one person’s wrongful act causes harm or loss to another, and the remedy is 
+compensation, not punishment.
+A tort = a civil wrong that leads to damages.
+Common types of Torts: Negligence, Defamation, Trespass to Property, Invasion of Privacy
+Civil Law – Major Categories
+Law of Contract
+This branch governs agreements between two or more 
+parties and determines when a promise becomes legally 
+enforceable.
+If you agree to do something (deliver software, provide a 
+service, etc.), and you don’t, the other party can take you to 
+court.
+Examples: Software development agreements
+Law of Succession
+Determines how a person’s property is passed on after their 
+death.
+This branch deals with inheritance and wills.
+Examples: Distribution of assets of a deceased person, Legal 
+heirs’ rights, Validity of a will
+Law of Property
+Determines legal rights over physical property (land, houses) 
+and intellectual property (IP) like software.
+It decides who owns something and what rights come with 
+that ownership.
+Examples: Who owns the source code? Developer or client?
+Trademark ownership, Patent rights (invented technology) etc.
+Family Law
+Regulates the rights, duties, and legal status between husband 
+& wife, parents & children, and family members.
+Marriage, divorce, maintenance, child custody, guardianship.
+Examples: Child custody disputes, Divorce and marital rights, 
+Domestic issues resolved in Family Courts
+Civil Law (Private Law)
+Purpose
+§ Ensure fairness
+§ Protect private rights
+§ Provide remedies for harm
+§ Support business and professional 
+relationships
+Outcomes
+§ Compensation (damages)
+§ Injunctions
+§ Restitution
+§ Declaratory relief
+§ Settlement agreements
+Public Law
+Public law governs the relationship between individuals and the State.
+It regulates how government power is exercised and how citizens’ rights are protected.
+Purpose
+§ Ensure government acts fairly and 
+legally
+§ Protect citizens from misuse of State 
+power
+§ Maintain the balance between 
+authority and individual rights
+Examples
+§ Challenging a government body’s 
+misuse of personal data
+§ Appealing a decision made by a 
+regulatory authority (PTA, SECP, FBR)
+§ Constitutional petitions related to 
+digital rights, surveillance, or 
+censorship
+Public Law – Major Categories
+Constitutional Law
+Constitutional law defines how the 
+government is structured, how its main 
+institutions (Parliament, Executive, Judiciary) 
+relate to each other, and what powers and 
+responsibilities each one has. It also protects 
+the fundamental rights of citizens.
+Example: Relations between the Federal 
+Govt. and the Provincial Govt., High Courts 
+and Supreme Court, Armed Forces, Police, 
+Rights and Liabilities of people etc.
+Administrative Law
+Administrative law governs how government 
+departments and public authorities make 
+decisions, and protects individuals from 
+unfair or unlawful actions by these bodies.
+Example: administrative law determines the 
+legal rights of a private citizen whose house, 
+a local authority intends to acquire 
+compulsorily.
+Substantive Law              Procedural Law
+Defines rights, duties, and what actions are 
+considered legal or illegal.
+It is the body of rules of law in the above 
+branches which regulate the rights, duties 
+and liabilities among citizens and 
+government.
+Examples:
+§ Unauthorized access to a computer 
+system is a crime.
+§ A valid contract requires offer, 
+acceptance, and consideration.
+§ Defamation harms reputation and creates 
+civil liability.
+Defines the steps and processes for 
+enforcing substantive law through the 
+justice system.
+It lays down the rules governing the manner 
+in which a right is enforced under civil law 
+or a crime prosecuted under criminal law.
+Examples
+§ Challenging a government body’s misuse 
+of personal data
+§ Appealing a decision made by a 
+regulatory authority (PTA, SECP, FBR)
+§ Constitutional petitions related to digital 
+rights, surveillance, or censorship
+International Law
+Public International Law governs the relationships between states and international 
+organizations. It sets rules for how countries interact, cooperate, and resolve disputes.
+What It Covers:
+§ Treaties and Agreements: trade agreements, 
+climate treaties, security pacts
+§ Diplomatic Relations: embassies, diplomats, 
+international cooperation
+§ Human Rights Obligations: UN conventions, 
+international rights frameworks
+§ International Conflict Rules: laws of war, 
+humanitarian law
+§ Global Issues: cybercrime cooperation, data 
+transfers, extradition
+IT-Relevant Examples:
+§ Countries cooperating on cross-
+border cybercrime investigations
+§ International rules for data 
+transfer (GDPR, adequacy 
+agreements)
+§ Extradition cases involving 
+hackers operating from abroad
+§ Pakistan’s commitments under 
+international treaties (e.g., 
+Budapest Convention discussions)
+General Law                     Special Law
+Laws that apply to everyone and cover 
+broad areas of legal matters.
+Key Features:
+Applies to the entire population
+Covers general rights and duties
+Forms the basic legal framework of a 
+country
+Examples:
+§ Pakistan Penal Code (PPC)
+§ Contract Act 1872
+§ Qanun-e-Shahadat Order (evidence 
+law)
+Laws created for specific subjects, 
+specific groups, or specific situations.
+Key Features:
+Overrides general law when there is a 
+conflict
+Applies only to particular areas or issues
+More detailed and targeted
+Examples:
+§ PECA 2016 (cybercrime)
+§ Intellectual Property Laws
+§ Anti-Money Laundering Act
+§ Companies Act 2017
+Law and Ethics
+§ When Law tells us to do or not to do something, it implies that a recognized authority 
+has decided that the action that allows or prohibits is of benefit to the society in 
+someway.
+§ It often happens that an ethical principle was used prior to a laws construction.
+Example: a generally accepted ethical principle that we should help others in need leads 
+to a Good Samaritan Laws that protect the right of individuals who help an injured 
+person. 
+§ The fact that Law is grounded in ethical principles makes law a good starting point for 
+ethical decision making.
+Legal
+Not Legal
+Ethical
+I
+II
+Not Ethical
+III
+IV
+Law and Ethics
+I.
+Firing an employee who does not perform according to expectation 
+or fails to follow contractual obligations.
+II.
+Copying copyrighted software to use only as a backup, even when the 
+copyright agreement specifically prohibits copying for that purpose. 
+III. Not citing sources in research paper/ revealing data that was expected 
+to remain confidential 
+IV. Making unauthorized copies of copyrighted software planting viruses 
+in someone else’s computer
+Thank You
