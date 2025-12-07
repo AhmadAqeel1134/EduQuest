@@ -227,7 +227,8 @@ This project is part of a university course assignment.
 
 ## 👥 Contributors
 
-
+- Talha Khuram (22i-0790)
+- Ahmad Aqeel (22i-1134)
 
 ## 📚 References
 
