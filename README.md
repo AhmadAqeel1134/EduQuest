@@ -3,6 +3,7 @@
 **Authors:** Talha Khuram (22i-0790) & Ahmad Aqeel (22i-1134)  
 **Course:** Generative AI, SPRING 2025  
 **Instructor:** Dr. Akhtar Jamil
+
 ## 📋 Project Overview
 
 EduQuest is an intelligent question generation system that uses Retrieval-Augmented Generation (RAG) to automatically create educational questions from PDF documents. The system supports multiple generative AI models and provides comprehensive evaluation metrics.
