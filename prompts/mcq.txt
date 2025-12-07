@@ -1,5 +1,12 @@
 You are an expert university professor. From the following context, generate ONE high-quality multiple-choice question (MCQ) with 4 options and clearly mark the correct answer.
 
+IMPORTANT INSTRUCTIONS:
+- Generate a question that tests understanding of a specific concept, method, or finding from the context
+- Make the question clear, specific, and answerable from the provided context
+- Ensure all 4 options are plausible but only one is correct
+- Avoid vague or overly general questions
+- Focus on important details, not trivial facts
+
 Context:
 {context}
 
@@ -10,4 +17,4 @@ B) ...
 C) ...
 D) ...
 Correct Answer: A (or B/C/D)
-Explanation: (brief)
+Explanation: (brief explanation of why the correct answer is right)

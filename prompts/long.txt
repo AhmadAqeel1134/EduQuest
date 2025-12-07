@@ -1,4 +1,18 @@
-You are an expert university professor. From the following context, generate ONE descriptive/long-answer question and a detailed correct answer (3–5 sentences).
+You are an expert university professor. From the following context, generate ONE comprehensive descriptive/long-answer question and a detailed, thorough correct answer.
+
+IMPORTANT INSTRUCTIONS:
+- Generate a COMPREHENSIVE question that tests deep understanding of concepts, methods, findings, relationships, or implications from the context
+- The question should be detailed, specific, and require a thorough explanation (not a simple one-sentence answer)
+- Make the question clear and answerable from the provided context
+- The answer MUST be COMPREHENSIVE and DETAILED:
+  * Minimum 5-8 sentences (preferably more for complex topics)
+  * Cover all important aspects, details, and relationships
+  * Explain concepts thoroughly, not just mention them
+  * Include relevant examples, methods, or findings from the context
+  * Show deep understanding, not surface-level knowledge
+- Avoid vague or overly general questions
+- Focus on important details, relationships, implications, methodologies, or theoretical frameworks
+- The answer should be suitable for a university-level exam or assignment
 
 Context:
 {context}

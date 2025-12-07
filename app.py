@@ -81,7 +81,7 @@ def load_model_with_retry(max_retries=3, retry_delay=5):
                 else:
                     # Some other error, try float32
                     print(f"Float16 failed ({e}), trying float32...")
-                    model = AutoModelForCausalLM.from_pretrained(
+model = AutoModelForCausalLM.from_pretrained(
                         MODEL, 
                         torch_dtype=torch.float32,
                         device_map="cpu", 
@@ -262,11 +262,11 @@ def process_pdf(pdf_file):
     
     try:
         loader = PyMuPDFLoader(file_path)
-        docs = loader.load()
-        splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
-        splits = splitter.split_documents(docs)
-        vectorstore = Chroma.from_documents(splits, embeddings)
-        retriever = vectorstore.as_retriever(search_kwargs={"k": 4})
+    docs = loader.load()
+    splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+    splits = splitter.split_documents(docs)
+    vectorstore = Chroma.from_documents(splits, embeddings)
+    retriever = vectorstore.as_retriever(search_kwargs={"k": 4})
         return f"Loaded: {os.path.basename(file_path)} → {len(splits)} chunks ready!"
     except Exception as e:
         return f"Error processing PDF: {str(e)}"
@@ -276,7 +276,7 @@ def generate(qtype, num=5):
         return "Please upload a PDF first!"
     
     try:
-        template = open(f"prompts/{qtype}.txt", "r", encoding="utf-8").read()
+    template = open(f"prompts/{qtype}.txt", "r", encoding="utf-8").read()
     except FileNotFoundError:
         return f"Error: Prompt template '{qtype}.txt' not found in prompts/ directory."
     except Exception as e:

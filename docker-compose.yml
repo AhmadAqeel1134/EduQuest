@@ -1,0 +1,17 @@
+# Docker Compose configuration for EduQuest
+version: '3.8'
+
+services:
+  eduquest:
+    build: .
+    container_name: eduquest-app
+    ports:
+      - "7860:7860"
+    volumes:
+      - ./pdfs:/app/pdfs
+      - ./visualizations:/app/visualizations
+      - ./prompts:/app/prompts
+    environment:
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-AIzaSyDS81s7mnk7cD52najI8QPLyRLR7NfGo4M}
+      - HF_HUB_DISABLE_SYMLINKS_WARNING=1
+    restart: unless-stopped

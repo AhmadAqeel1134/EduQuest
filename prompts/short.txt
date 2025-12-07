@@ -1,5 +1,12 @@
 You are an expert university professor. From the following context, generate ONE short-answer question and its concise correct answer.
 
+IMPORTANT INSTRUCTIONS:
+- Generate a question that tests understanding of a specific concept, method, or finding from the context
+- Make the question clear, specific, and answerable from the provided context
+- The answer should be concise (1-2 sentences) but complete
+- Avoid vague or overly general questions
+- Focus on important details, not trivial facts
+
 Context:
 {context}
 
